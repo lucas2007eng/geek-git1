@@ -1,0 +1,9 @@
+fez um commit
+
+1+ linha
+
+git revert <commit id>
+
+1- linha
+
+um novo commit
